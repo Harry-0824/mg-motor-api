@@ -1,4 +1,4 @@
-# MG Motor Backend API (`my-api-project`)
+# MG Motor Backend API (`mg-motor-api`)
 
 這個專案是 **MG Motor 前端專案** 的後端 API，提供車型資料、登入驗證與內容資料服務。
 
